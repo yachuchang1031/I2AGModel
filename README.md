@@ -1,5 +1,5 @@
 # I2AGModel
 Image-to-Audio Generation Model Demo
 
-![image](https://github.com/yachuchang1031/I2AGModel/blob/main/cat_dog_water_pouring.jpg)
-![audio](https://github.com/yachuchang1031/I2AGModel/blob/main/An%20audience%20cheering%20and%20clapping.wav)
+![B21D1308-9A6E-41F8-84AC-26DA48321F96](https://github.com/yachuchang1031/I2AGModel/assets/136334958/38ca05b7-b1c3-46e8-8114-6729aef1c6e4)
+
