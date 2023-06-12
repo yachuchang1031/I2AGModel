@@ -8,7 +8,8 @@ Image-to-Audio Generation Model Demo
 *生成結果1
 
 ![rain_frog](https://github.com/yachuchang1031/I2AGModel/assets/136334958/825aa781-da29-4e1c-82eb-4a1841d1212e)
-[https://github.com/yachuchang1031/I2AGModel/blob/main/generation%20audio/A%20frog%20in%20the%20rain.mp3](https://github.com/yachuchang1031/I2AGModel/blob/main/generation%20audio/An%20audience%20cheering%20and%20clapping.wav)
+[](https://github.com/yachuchang1031/I2AGModel/blob/main/generation%20audio/An%20audience%20cheering%20and%20clapping.wav)
+https://github.com/yachuchang1031/I2AGModel/blob/main/generation%20audio/An%20audience%20cheering%20and%20clapping.wav
 
 *生成結果2
 
