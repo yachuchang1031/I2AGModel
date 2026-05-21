@@ -1,6 +1,7 @@
 # **I2AGModel**
 ## Image-to-Audio Generation Model Demo Samples
 
+### 應用：許多影視產業會有聲音後期製作需求，拍攝完成後，成音師於錄音室進行擬音（Foley）、音效設計（Sound Design）與混音（Mixing）等作業，確保聲音質感符合導演要求。藉由此模型，可以更快速製作出期待的場景音效，省去錄音過程。
 
 ### PART_I: 圖片丟入I2AGModel模型後生成對應圖片情景的聲音 (1~6)
 
